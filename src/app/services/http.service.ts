@@ -21,9 +21,9 @@ export class HttpService {
    * prod test run
    */
 
-  basePath: string = "https://deploysync.herokuapp.com/user/list/";
+  basePath: string = "https://deploysync.herokuapp.com/user/list";
   headerBasePath: string = "https://deploysync.herokuapp.com/gridheader/list";
-  gridPropertyBasePath: string = "https://deploysync.herokuapp.com/treegridproperty/";
+  gridPropertyBasePath: string = "https://deploysync.herokuapp.com/treegridproperty";
 
 
   /**
